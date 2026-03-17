@@ -44,6 +44,10 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/blogs/</loc>
+		<lastmod>2026-03-17T08:19:02+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/contact/</loc>
 		<lastmod>2026-03-17T08:07:10+00:00</lastmod>
 	</url>
@@ -65,9 +69,5 @@
 		<image:image>
 			<image:loc>/assets/uploads/2026/03/team3.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/blogs/</loc>
-		<lastmod>2026-03-17T06:30:14+00:00</lastmod>
 	</url>
 </urlset>
